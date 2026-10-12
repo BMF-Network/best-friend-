@@ -1,0 +1,6 @@
+{
+  "name": "B M F (The Best Mate Family)",
+  "description": "The Best Mate Family portal founded in 2021. Promoting peace, harmony, and unconditional love with secure Gmail entrance, live call lounge, and admin governance.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
